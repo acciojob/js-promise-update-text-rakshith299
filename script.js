@@ -1,4 +1,4 @@
-const str = "Hello world!";
+const str = "Hello, world!";
 
 const output = document.getElementById("output");
 
